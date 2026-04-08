@@ -190,8 +190,8 @@ This project was developed as part of an academic project to demonstrate the use
 
 # 👨‍💻 Authors
 
-**Rohith Krishna**
-**Sriram**
+Rohith Krishna
+Sriram
 
 GitHub
 https://github.com/CR7-GOAT28
